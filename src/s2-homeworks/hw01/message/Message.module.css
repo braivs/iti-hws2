@@ -1,5 +1,5 @@
 .message {
-
+    display: flex;
 }
 
 .imageAndText {
@@ -7,10 +7,12 @@
 }
 
 .imageAndText img {
-
+    width: 48px;
+    height: 48px;
 }
 
 .text {
+    background-color: #0066CC;
 
 }
 
