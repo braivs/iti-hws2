@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/iti-hws2/static/css/main.b1138821.css",
-    "main.js": "/iti-hws2/static/js/main.2b210033.js",
+    "main.css": "/iti-hws2/static/css/main.7ff8e774.css",
+    "main.js": "/iti-hws2/static/js/main.26e3f713.js",
     "static/js/787.f2de2030.chunk.js": "/iti-hws2/static/js/787.f2de2030.chunk.js",
+    "static/media/avatar.png": "/iti-hws2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/404.svg": "/iti-hws2/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
+    "static/media/closeOutline.svg": "/iti-hws2/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
     "static/media/checked.svg": "/iti-hws2/static/media/checked.0b6a1bcf5d417ff0a947.svg",
     "index.html": "/iti-hws2/index.html",
-    "main.b1138821.css.map": "/iti-hws2/static/css/main.b1138821.css.map",
-    "main.2b210033.js.map": "/iti-hws2/static/js/main.2b210033.js.map",
+    "static/media/burger.svg": "/iti-hws2/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
+    "main.7ff8e774.css.map": "/iti-hws2/static/css/main.7ff8e774.css.map",
+    "main.26e3f713.js.map": "/iti-hws2/static/js/main.26e3f713.js.map",
     "787.f2de2030.chunk.js.map": "/iti-hws2/static/js/787.f2de2030.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1138821.css",
-    "static/js/main.2b210033.js"
+    "static/css/main.7ff8e774.css",
+    "static/js/main.26e3f713.js"
   ]
 }
