@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/iti-hws2/static/css/main.a3404627.css",
-    "main.js": "/iti-hws2/static/js/main.cc233085.js",
+    "main.js": "/iti-hws2/static/js/main.3d9d89fe.js",
     "static/js/787.f2de2030.chunk.js": "/iti-hws2/static/js/787.f2de2030.chunk.js",
     "static/media/editIcon.svg": "/iti-hws2/static/media/editIcon.11c8e1c42f9a4eae81897d68e091eb42.svg",
     "index.html": "/iti-hws2/index.html",
     "main.a3404627.css.map": "/iti-hws2/static/css/main.a3404627.css.map",
-    "main.cc233085.js.map": "/iti-hws2/static/js/main.cc233085.js.map",
+    "main.3d9d89fe.js.map": "/iti-hws2/static/js/main.3d9d89fe.js.map",
     "787.f2de2030.chunk.js.map": "/iti-hws2/static/js/787.f2de2030.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3404627.css",
-    "static/js/main.cc233085.js"
+    "static/js/main.3d9d89fe.js"
   ]
 }
