@@ -32,7 +32,6 @@ const HW12 = () => {
         document.documentElement.dataset.theme = themeId + ''
     }, [themeId])
 
-    debugger
 
     return (
         <div id={'hw12'}>
