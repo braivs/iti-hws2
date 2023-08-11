@@ -34,11 +34,13 @@ const HW14 = () => {
         setLoading(true)
         getTechs(value)
             .then((res) => {
+
                 // делает студент
 
                 // сохранить пришедшие данные
-
                 //
+                res && setTechs(res.data.techs)
+                setLoading(false)
             })
     }
 
@@ -50,6 +52,7 @@ const HW14 = () => {
         // setSearchParams(
 
         //
+        setSearchParams(value)
     }
 
     useEffect(() => {
