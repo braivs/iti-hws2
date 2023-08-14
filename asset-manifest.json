@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/iti-hws2/static/css/main.785d2131.css",
-    "main.js": "/iti-hws2/static/js/main.a34f093c.js",
+    "main.css": "/iti-hws2/static/css/main.726c59eb.css",
+    "main.js": "/iti-hws2/static/js/main.cc6fe339.js",
     "static/js/787.66cb4309.chunk.js": "/iti-hws2/static/js/787.66cb4309.chunk.js",
     "static/media/404.svg": "/iti-hws2/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
     "static/media/closeOutline.svg": "/iti-hws2/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
     "index.html": "/iti-hws2/index.html",
     "static/media/burger.svg": "/iti-hws2/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
-    "main.785d2131.css.map": "/iti-hws2/static/css/main.785d2131.css.map",
-    "main.a34f093c.js.map": "/iti-hws2/static/js/main.a34f093c.js.map",
+    "main.726c59eb.css.map": "/iti-hws2/static/css/main.726c59eb.css.map",
+    "main.cc6fe339.js.map": "/iti-hws2/static/js/main.cc6fe339.js.map",
     "787.66cb4309.chunk.js.map": "/iti-hws2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.785d2131.css",
-    "static/js/main.a34f093c.js"
+    "static/css/main.726c59eb.css",
+    "static/js/main.cc6fe339.js"
   ]
 }
